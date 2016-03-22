@@ -1,0 +1,28 @@
+name: Avalanche
+favicon: null
+layout_spectrum: 0.9798399454448372
+typography_spectrum: 0.3920832248404622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.37433089362457395
+  lightness: 0.25276391743682325
+  saturation: 0.3989763120189309
+  rhythmicContrast: 0.5267187978606671
+purpose: []
